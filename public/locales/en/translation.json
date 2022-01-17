@@ -1,0 +1,8 @@
+{
+  "title" : "Israeli new shekel",
+  "content" : {
+    "p-one" : "The Israeli new shekel (Hebrew: שֶׁקֶל חָדָשׁ iconsheqel ẖadash; Arabic: شيكل جديد šēkal jadīd; sign: ₪; code: ILS), also known as simply the Israeli shekel (Hebrew: שקל ישראלי, Arabic: شيكل إسرائيلي), is the currency of Israel and is also used as a legal tender in the Palestinian territories of the West Bank and the Gaza Strip. The new shekel is divided into 100 agorot. The new shekel has been in use since 1 January 1986, when it replaced the hyperinflated old shekel at a ratio of 1000:1.",
+    "p-two" : "The currency sign for the new shekel ⟨ ₪ ⟩ is a combination of the first Hebrew letters of the words shekel (ש) and ẖadash (ח) (new). It was previously known as the new Israeli shekel and the non-official abbreviation of NIS (ש״ח and ش.ج) is still commonly used domestically to denominate prices and also appears on the Bank of Israel's web site. However, the official international currency code of the Israeli new shekel is ILS, as set by the International Organization for Standardization under ISO 4217.",
+    "shekel-exchange-rate": "The exchange rate of 1 shekel in relation to other currencies: {{ currencyList }} "
+  }
+}

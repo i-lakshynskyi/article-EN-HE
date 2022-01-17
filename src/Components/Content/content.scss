@@ -1,0 +1,32 @@
+.content-wrapper {
+  min-height: content-box;
+  margin: 3vw 10vw 1vh;
+  background-color: rgba(12, 12, 12, 0.32);
+  --padding: 50px;
+  padding: var(--padding);
+  box-shadow: inset 0 0 0 var(--padding) rgba(53, 56, 53, 0.04);
+
+
+  .text {
+    margin: 20px 15px 20px;
+    color: white;
+    font-family: Verdana;
+    font-size: 16px;
+  }
+
+  .title {
+    font-weight: 600;
+  }
+
+  .content {
+    font-size: 14px;
+  }
+
+  .en {
+    text-align: justify;
+  }
+
+  .he {
+    direction: rtl;
+  }
+}
